@@ -42,7 +42,7 @@ using namespace std;
 
          else if(bmi>=15.0&&bmi<16.0)
 		{
-            str="Severely underweightt\n";
+            str="Severely underweight\n";
           }
     
          else  if(bmi>=16.0&&bmi<18.5){
